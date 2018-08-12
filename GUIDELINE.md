@@ -49,6 +49,7 @@
    Mas, nos basearemos na cli create-react-native-app. 
     
    Essa cli abstraí boa parte da complexidade do setup de criação(Create React Native App), com alguns comandos no terminal, teremos o     ambiente de desenvolvimento configurado. \o/
+   
    Para rodar o projeto no celular por padrão esta cli utiliza o Expo.
     
    Vamos instalar o react-native, para isto execute o comando no terminal:
@@ -87,7 +88,9 @@
    Expo Client é uma ferramenta que nos auxiliará na visualização do projeto em tempo real.
     Caso você faça qualquer mudança, rapidamente aparecerá no Expo.  
     Vamos precisar dele para rodar nossa aplicação no celular. [faça o download no seu celular](https://expo.io/tools#client)
-    Após a criação do app vamos abrir o Expo App (no celular) e usá-lo para fazer a leitura do QR code que apareceu no terminal. 
+    
+   Após a criação do app vamos abrir o Expo App (no celular) e usá-lo para fazer a leitura do QR code que apareceu no terminal. 
+   
 ## Dúvidas 
    Houve algum problema durante o setup ou está com dúvidas?
     Sinta-se a vontade para abrir uma [issue](https://github.com/oskojess/react-native-forbegginners/issues/new)ou entrar em contato comigo pelo [Facebook](https://www.facebook.com/jessica.osko.7).
