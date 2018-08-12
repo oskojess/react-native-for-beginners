@@ -1,4 +1,4 @@
-**react-native-forbeginners**
+**react-native-for-beginners**
 
 Para preparar o seu ambiente de Desenvolvimento: [aqui](./GUIDELINE.md)
 
