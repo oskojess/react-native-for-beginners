@@ -74,7 +74,7 @@
 ## Expo 
    Expo Client é uma ferramenta que nos auxiliará na visualização do projeto em tempo real.
     Caso você faça qualquer mudança, você conseguirá ve-la rapidamente pelo Expo.  
-    Precisaremos dele para rodar nossa aplicação no celular [clique aqui e faça o download no seu celular] (https://expo.io/tools#client)
+    Precisaremos dele para rodar nossa aplicação no celular. [faça o download no seu celular](https://expo.io/tools#client)
     Após a criação do app vamos abrir o Expo App (no celular) e usá-lo para fazer a leitura do QR code que apareceu no terminal. 
 ## Dúvidas 
    Houve algum problema durante o setup ou está com dúvidas?
