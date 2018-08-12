@@ -11,7 +11,7 @@
  - [Node](#node)
     - [Node Package Manager NPM](#node-package-manager-npm) 
 - [Create React Native App CRNA](#create-react-native-app-crna)
-- [Start no Projeto](#start-no-projeto)
+- [Start do Projeto](#start-do-projeto)
 - [Expo](#expo)
 - [Dúvidas](#duvidas)
 
@@ -63,7 +63,7 @@
     create-react-native-app version: 1.0.0
     
     
-## Start no Projeto
+## Start do Projeto
    Agora vamos criar o projeto com os comandos abaixo:
    
      
