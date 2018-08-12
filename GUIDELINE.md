@@ -18,7 +18,8 @@
 ## Node 
    A primeira coisa a ser feita é fazer o download do [Node](https://nodejs.org/en/download/).
     Ao concluir a instalação, precisamos nos certificar que ocorreu tudo certo durante o processo.
-    Abra o seu terminal e digite o comando abaixo(sem o cifrão):
+    
+   Abra o seu terminal e digite o comando abaixo(sem o cifrão):
     
     $ node -v
     
@@ -46,8 +47,9 @@
 ## Create React Native App (CRNA)
    Existem outras formas de iniciar um projeto com React Native. 
    Mas, nos basearemos na cli create-react-native-app. 
-    Essa cli abstraí boa parte da complexidade do setup de criação(Create React Native App), com alguns comandos no terminal, teremos o     ambiente de desenvolvimento configurado. \o/
-    Para rodar o projeto no celular por padrão esta cli utiliza o Expo.
+    
+   Essa cli abstraí boa parte da complexidade do setup de criação(Create React Native App), com alguns comandos no terminal, teremos o     ambiente de desenvolvimento configurado. \o/
+   Para rodar o projeto no celular por padrão esta cli utiliza o Expo.
     
    Vamos instalar o react-native, para isto execute o comando no terminal:
    
