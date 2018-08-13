@@ -1,23 +1,31 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { View, Text } from "react-native";
+import { createDrawerNavigator } from "react-navigation";
 
-export default class App extends React.Component {
+import FlexDirection from "./src/components/flexbox/FlexDirection";
+import JustifyContent from "./src/components/flexbox/JustifyContent";
+import AlignItems from "./src/components/flexbox/AlignItems";
+
+class App extends React.Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
+      <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+        <FlexDirection />
       </View>
     );
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+const DrawerNavigator = createDrawerNavigator({
+  FlexDirection: {
+    screen: FlexDirection
   },
+  JustifyContent: {
+    screen: JustifyContent
+  },
+  AlignItems: {
+    screen: AlignItems
+  }
 });
+
+export default DrawerNavigator;
